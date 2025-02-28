@@ -4,7 +4,6 @@ Ce projet est conçu pour améliorer la lisibilité et la maintenabilité du cod
 ## 1. Respecter la PEP 8
 - Utiliser des indentations de 4 espaces.
 - Limiter la longueur des lignes à 79 caractères.
-- Utiliser des noms de variables explicites et en minuscules avec des underscores (ex: `nom_utilisateur`).
 - Séparer les classes et les fonctions avec deux lignes vides.
 - **Référence** : [PEP 8 – Style Guide for Python Code](https://peps.python.org/pep-0008/)
 
